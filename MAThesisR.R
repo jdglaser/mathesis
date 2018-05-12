@@ -16,7 +16,6 @@
 # + e1071
 
 #_____Cleaning the Data_____#
-citation('ggplot2')
 
 setwd("C:\\Users\\jarre\\OneDrive\\MA Thesis\\FreshStart")
 
