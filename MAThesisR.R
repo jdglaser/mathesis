@@ -113,6 +113,7 @@ legend("topleft",c("Smoothed","Actual"),col=c(alpha("Red"),alpha("Blue",0.3)),lt
 #_____Calculating Features_____#
 
 #____Technical Indicators____#
+library(TTR)
 
 #___RSI___#
 
