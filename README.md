@@ -13,6 +13,7 @@ __Packages Used in this script:__
 + ggplot2
 + tidyverse
 + fpp2
++ TTR
 + pracma
 + data.tables
 + caret
